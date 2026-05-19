@@ -1,0 +1,4 @@
+Nombre: Estrella
+Edad: 20
+Fecha de nacimiento: 23/05/2005
+Color favorito: Negro
