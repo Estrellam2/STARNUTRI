@@ -2,3 +2,4 @@ Nombre: Brenda
 Edad: 21
 Fecha de nacimiento: 29 Diciembre 2005
 Color favorito: Negro
+Ciudad: Cordoba
